@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/airplane/static/css/main.f9034cd4.css",
+    "main.js": "/airplane/static/js/main.0db616af.js",
+    "static/js/787.685ab72f.chunk.js": "/airplane/static/js/787.685ab72f.chunk.js",
+    "static/media/jii.png": "/airplane/static/media/jii.328262eee257ece255d3.png",
+    "static/media/suu.png": "/airplane/static/media/suu.61383595026aba763d17.png",
+    "static/media/sudvasemfmain.png": "/airplane/static/media/sudvasemfmain.006c210b59476cd775f2.png",
+    "static/media/fff.png": "/airplane/static/media/fff.b38bd00deb6376068e6e.png",
+    "static/media/miigg.png": "/airplane/static/media/miigg.caa19f9876a34a93bb09.png",
+    "static/media/suusorok.png": "/airplane/static/media/suusorok.9845edca03602ee662be.png",
+    "static/media/tiykkk.png": "/airplane/static/media/tiykkk.eda2dcf1942a6b02223d.png",
+    "static/media/supsforpg.png": "/airplane/static/media/supsforpg.4a55e6fcd1ef3d64a89f.png",
+    "static/media/sorsu.png": "/airplane/static/media/sorsu.2016c1746af30ddc843c.png",
+    "static/media/ftri.png": "/airplane/static/media/ftri.49a15dfa6deb89a7c59f.png",
+    "static/media/yuuuk.png": "/airplane/static/media/yuuuk.ecd8839529fed7ab53d2.png",
+    "static/media/yaktri.png": "/airplane/static/media/yaktri.9c63461aa63ab78951dd.png",
+    "static/media/jjjj.png": "/airplane/static/media/jjjj.dda1331b5dafcf2fa98d.png",
+    "static/media/sus.png": "/airplane/static/media/sus.bbaf506e08d6914efac3.png",
+    "static/media/yakkk.png": "/airplane/static/media/yakkk.9839c756f8a3ba51a241.png",
+    "static/media/mig.png": "/airplane/static/media/mig.b43102832bee4cd279ac.png",
+    "static/media/clouds.png": "/airplane/static/media/clouds.3b7f82cfc38b9c9426e1.png",
+    "index.html": "/airplane/index.html",
+    "main.f9034cd4.css.map": "/airplane/static/css/main.f9034cd4.css.map",
+    "main.0db616af.js.map": "/airplane/static/js/main.0db616af.js.map",
+    "787.685ab72f.chunk.js.map": "/airplane/static/js/787.685ab72f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9034cd4.css",
+    "static/js/main.0db616af.js"
+  ]
+}
