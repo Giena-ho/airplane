@@ -13,12 +13,12 @@ const Header = () => {
       {/* <a> */}
       <div className="title">
         ВИКИПЕДИЯ ИСТРЕБИТЕЛЕЙ
-        <Link to="/">
+        <Link to="/airplane">
         <img src={logo}></img>
         </Link>
       </div>
       <div className="topbar">
-        <Link to="/"> Главная </Link>
+        <Link to="/airplane"> Главная </Link>
       </div>
       {/* </a> */}
     </div>

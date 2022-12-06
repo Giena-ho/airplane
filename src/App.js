@@ -23,16 +23,16 @@ const App = () => {
           <Heder />
           <Routes> 
             {/* кнопка */}
-            <Route exact path="/" element={<Main />} /> 
+            <Route exact path="/airplane" element={<Main />} /> 
             {/* Exact - это возвращение на главную страницу*/}
-            <Route path="/Su57" element={<Su57 />} />
-            <Route path="/Su27" element={<Su27/>}/>
-            <Route path="/Mig35" element={<Mig35/>}/>
-            <Route path="/yk141" element={<Yk141/>}/>
-            <Route path="/F35" element={<F35/>}/>
-            <Route path="/Yk3" element={<Yk3/>}/>
-            <Route path="/J20" element={<J20/>}/>
-            <Route path="/Su47" element={<Su47 />} />
+            <Route path="/airplane/Su57" element={<Su57 />} />
+            <Route path="/airplane/Su27" element={<Su27/>}/>
+            <Route path="/airplane/Mig35" element={<Mig35/>}/>
+            <Route path="/airplane/yk141" element={<Yk141/>}/>
+            <Route path="/airplane/F35" element={<F35/>}/>
+            <Route path="/airplane/Yk3" element={<Yk3/>}/>
+            <Route path="/airplane/J20" element={<J20/>}/>
+            <Route path="/airplane/Su47" element={<Su47 />} />
           </Routes>
         </div>
       </div>
